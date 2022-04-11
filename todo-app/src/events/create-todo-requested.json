@@ -1,0 +1,10 @@
+{
+  "source": "demo.codecamp-n",
+  "detail-type": "new-todo-requested",
+  "detail": {
+    "user": "user-1",
+    "title": "Show something",
+    "creationDate": "2022-04-11T09:59:01.271Z",
+    "correlationId": "request-1"
+  }
+}
